@@ -1,8 +1,6 @@
-# Elixir Training
+# Apprentice Elixir Training
 
-This project contains a Livebook designed to cover a basic introduction to Elixir. The material is designed to be covered 
-in an interactive format with a developer already familiar with Elixir, though can also be useful to browse and play with 
-examples of the main language features.
+This project contains a Livebook designed to cover a basic introduction to Elixir. The material is to be used for apprentices.
 
 ## Viewing this training material
 You will need to install [Livebook](https://github.com/livebook-dev/livebook) then open the notebook that you're interested in 
